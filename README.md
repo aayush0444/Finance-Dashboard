@@ -50,6 +50,6 @@ This dashboard was built using:
 ## 🖼️ 5. Preview
 
 ### 🔹 Full Dashboard
-![Finance Dashboard Preview](<[put-your-dashboard-image-link-here](https://github.com/aayush0444/Finance-Dashboard/blob/main/Screenshot%202025-07-09%20174612.png)>)
+![Finance Dashboard Preview](<https://github.com/aayush0444/Finance-Dashboard/blob/main/Screenshot%202025-07-09%20174612.png>)
 
 ---
